@@ -1,0 +1,188 @@
+elexonBmUnit,nationalGridBmUnit,bmUnitName,leadPartyName,generationCapacity,transmissionLossFactor,tlf_zone,is_scottish,basis
+T_SGRWO-6,SGRWO-6,Seagreen1 Offshore WF 6,Seagreen Wind Energy Limited,380.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_SGRWO-3,SGRWO-3,Seagreen1 Offshore WF 3,Seagreen Wind Energy Limited,374.618,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_SGRWO-1,SGRWO-1,Seagreen1 Offshore WF 1,Seagreen Wind Energy Limited,358.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MOWEO-1,MOWEO-1,Moray East OWF1,Moray Offshore Windfarm East L,300.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MOWEO-2,MOWEO-2,Moray East OWF2,Moray Offshore Windfarm East L,300.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MOWEO-3,MOWEO-3,Moray East OWF3,Moray Offshore Windfarm East L,300.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_SGRWO-5,SGRWO-5,Seagreen1 Offshore WF 5,Seagreen Wind Energy Limited,300.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MOWWO-4,MOWWO-4,Moray West OWF4,Moray Offshore Wind West Ltd,287.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_SGRWO-2,SGRWO-2,Seagreen1 Offshore WF 2,Seagreen Wind Energy Limited,220.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MOWWO-1,MOWWO-1,Moray West OWF1,Moray Offshore Wind West Ltd,215.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MOWWO-2,MOWWO-2,Moray West OWF2,Moray Offshore Wind West Ltd,215.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_BEATO-1,BEATO-1,Beatrice Offshore WF 1,Beatrice Offshore Windfarm Ltd,184.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_BEATO-2,BEATO-2,Beatrice Offshore WF 2,Beatrice Offshore Windfarm Ltd,166.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_BEATO-3,BEATO-3,Beatrice Offshore WF 3,Beatrice Offshore Windfarm Ltd,166.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_BEATO-4,BEATO-4,Beatrice Offshore WF 4,Beatrice Offshore Windfarm Ltd,165.526,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MOWWO-3,MOWWO-3,Moray West OWF3,Moray Offshore Wind West Ltd,143.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_SGRWO-4,SGRWO-4,Seagreen1 Offshore WF 4,Seagreen Wind Energy Limited,140.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_VKNGW-1,VKNGW-1,Viking Energy Windfarm BMU-1,Viking Energy Wind Farm LLP,121.8,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_VKNGW-2,VKNGW-2,Viking Energy Windfarm BMU-2,Viking Energy Wind Farm LLP,121.8,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_VKNGW-3,VKNGW-3,Viking Energy Windfarm BMU-3,Viking Energy Wind Farm LLP,121.8,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_VKNGW-4,VKNGW-4,Viking Energy Windfarm BMU-4,Viking Energy Wind Farm LLP,121.8,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_DOREW-1,DOREW-1,Dorenell Wind Farm One,Dorenell Windfarm Limited,114.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_DOREW-2,DOREW-2,Dorenell Wind Farm Two,Dorenell Windfarm Limited,114.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_BEINW-1,BEINW-1,Beinneun Wind farm,Beinneun Wind Farm Ltd,108.8,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_BHLAW-1,BHLAW-1,Bhlaraidh Windfarm 1,SSE Generation Ltd,108.112,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_STLGW-1,STLGW-1,Stronelairg Windfarm 1,Stronelairg Windfarm Limited,108.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_STLGW-2,STLGW-2,Stronelairg Windfarm 2,Stronelairg Windfarm Limited,108.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_STLGW-3,STLGW-3,Stronelairg Windfarm 3,Stronelairg Windfarm Limited,108.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_LIMKW-1,LIMKW-1,Limekiln Wind Farm,Limekiln Extension Ltd,106.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_GRIFW-2,GRIFW-2,Griffin Wind Farm 2,Griffin Wind Farm Ltd,104.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_GRIFW-1,GRIFW-1,Griffin Wind Farm 1,Griffin Wind Farm Ltd,102.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_DUNGW-1,DUNGW-1,Dunmglass Windfarm 1,Dunmaglass Wind Farm Limited,100.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_ABRBO-1,ABRBO-1,ABRBO-1,Aberdeen Offshore Wind Farm,99.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_CREAW-1,CREAW-1,Creag Riabhach Wind Farm,Creag Riabhach Wind Farm Ltd,93.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_FARR-1,FAARW-1,Farr Unit 1,Smartestenergy Limited,92.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_FARR-2,FAARW-2,Farr Unit 2,Smartestenergy Limited,92.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_GORDW-1,GORDW-1,Gordon Bush,SSE Generation Ltd,86.764,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_STRNW-1,STRNW-1,Strathy North Wind Farm 1,Strathy Wind Farm Limited,70.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_CGTHW-1,CGTHW-1,Corriegarth WF,Corriegarth Wind Energy LTD,69.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_LCLTW-1,LCLTW-1,Lochluichart Windfarm,Eneco Energy Trade,69.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_KILBW-1,KILBW-1,KILBW,Kilbraur Wind Energy Ltd,68.51,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_MILWW-1,MILWW-1,MILWW,Millennium Wind Energy Ltd,65.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_GORDW-2,GORDW-2,Gordonbush WF Extension,SSE Generation Ltd,58.733,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_GLNKW-1,GLNKW-1,GLEN KYLLACHY WINDFARM,EDF Energy Customers Limited,52.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_CRMLW-1,CRMLW-1,Corriemoillie,EDF Energy Customers Limited,48.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_CRGHW-1,CRGHW-1,Carraig Gheal Wind Farm,Statkraft Markets Gmbh,46.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_ACHRW-1,ACHRW-1,AChruach Wind Farm,Mobius Renewables Gen. (GB2,42.6,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_EDINW-1,EDINW-1,Edinbane Windfarm,Vattenfall Wind Power Ltd,41.4,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_HALSW-1,HALSW-1,Halsary Windfarm,SP Renewables (UK) Limited,30.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_BDCHW-1,BDCHW-1,Bad a Cheo Wind Farm,RWE Generation UK plc,27.0,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_FSDLW-1,FSDLW-1,Freasdail Wind Farm,Freasdail Energy Limited,22.2,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_COUWW-1,COUWW-1,Cour Wind Farm,Cour Wind farm (Scotland) Ltd,20.5,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_ANSUW-1,ANSUW-1,An Suidhe 1,Statkraft Markets Gmbh,19.36,-0.0304534,North Scotland,Y,TLF matches North Scotland units; name checked
+T_INCWO-1,INCWO-1,T_INCWO-1,Inch CAPE Offshore Ltd,450.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_SOKYW-1,SOKYW-1,South Kyle Wind Farm,South Kyle Wind Farm Limited,426.916,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_INCWO-3,INCWO-3,T_INCWO-3,Inch CAPE Offshore Ltd,360.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_WHILW-1,WHILW-1,T_WHILW-1,SP Renewables (UK) Limited,309.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_KLGLW-1,KLGLW-1,Kilgallioch Windfarm,SP Renewables (UK) Limited,228.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_KLGLW-2,KLGLW-2,T_KLGLW-2,SP Renewables (UK) Limited,225.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_NNGAO-1,NNGAO-1,Neart Na Gaiothe WF 1,Neart Na Gaoithe Offshore Wind,224.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_NNGAO-2,NNGAO-2,Neart Na Gaiothe WF 2,Neart Na Gaoithe Offshore Wind,224.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_WHILW-2,WHILW-2,Whitelee Extension,SP Renewables (UK) Limited,206.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CLDCW-1,CLDCW-1,Clyde Central,Clyde Windfarm (Scotland) Ltd,200.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CLDNW-1,CLDNW-1,Clyde North,Clyde Windfarm (Scotland) Ltd,200.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_INCWO-4,INCWO-4,T_INCWO-4,Inch CAPE Offshore Ltd,180.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_AKGLW-3,AKGLW-3,AIKENGALL2A-W,AIK2A Sustainable Energy Ltd,163.4,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CRYRW-2,CRYRW-2,Crystal Rig II Windfarm,Eneco Energy Trade,150.62,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CLDSW-1,CLDSW-1,Clyde South,Clyde Windfarm (Scotland) Ltd,150.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_FALGW-1,FALGW-1,Fallago Rig Wind Farm,Fallago Rig Wind Farm Limited,144.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_HRSTW-1,HRSTW-1,Harestanes,SP Renewables (UK) Limited,142.3,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_HADHW-1,HADHW-1,Hadyard Hill Wind Farm,SSE Renewables Wind Farms,130.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CUMHW-2,CUMHW-2,T_CUMHW-2,CUMBERHEAD WEST WIND FARM LTD,126.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_BLLA-1,BLLA-1,T_BLLA-1,SP Renewables (UK) Limited,118.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_ARCHW-1,ARCHW-1,Arecleoch,SP Renewables (UK) Limited,114.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_NOKYW-1,NOKYW-1,North Kyle Wind Farm-1,North Kyle Wind farm Ltd,106.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_NOKYW-2,NOKYW-2,North Kyle Wind Farm-2,North Kyle Wind farm Ltd,106.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_INCWO-2,INCWO-2,T_INCWO-2,Inch CAPE Offshore Ltd,90.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_KPMRW-1,KPMRW-1,KYPE MUIR WIND FARM,KYPE MUIR WIND FARM LIMITED,89.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_SAKNW-1,SAKNW-1,Sandy Knowe Wind Farm,Sandy Knowe Wind Farm Ltd,87.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_PLOEW-1,PLOEW-1,PENCLOE WIND 1,PENCLOE WIND ENERGY LIMITED,81.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_DRSLW-1,DRSLW-1,Dersalloch Windfarm,SP Renewables (UK) Limited,70.9,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_ENHLW-1,ENHLW-1,Enoch Hill Wind Farm,RWE Generation UK plc,70.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_BLLA-2,BLLA-2,Black Law Windfarm Extension,SP Renewables (UK) Limited,69.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_BENBW-1,BENBW-1,Benbrack WF,Benbrack Wind Farm Limited,67.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_KYPEW-1,KYPEW-1,KYPE MUIR EXT WIND FARM,Kype Extension Wind Farm Ltd,67.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_DWEXW-1,DWEXW-1,Douglas West Extension,Douglas West Extension Ltd,65.51,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_AKGLW-2,AKGLW-2,AIKENGALL II,Aikengall 2 CWCL,63.84,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_WISTW-2,WISTW-2,Brockloch Rig 2 WF Exp A,BROCKLOCH RIG WINDFARM LTD,61.5,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_KENNW-1,KENNW-1,Kennoxhead Wind Farm,Kennoxhead Wind Farm Limited,60.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_BLKWW-1,BLKWW-1,Blackcraig Windfarm,Blackcraig Wind Farm Limited,56.216,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_GLWSW-1,GLWSW-1,Galawhistle Wind Farm,GALAWHISTLE WIND FARM,55.2,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_MKHLW-1,MKHLW-1,Mark Hill,SP Renewables (UK) Limited,53.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CUMHW-1,CUMHW-1,Cumberhead wind energy limited,Uniper UK Limited,52.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_HAGHW-2,HAGHW-2,Hagshaw Repower 2,HAGSHAW HILL REPOWERING LTD,51.3,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_MIDMW-1,MIDMW-1,MIDDLE MUIR WIND FARM,MIDDLE MUIR WIND FARM LIMITED,51.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_AFTOW-1,AFTOW-1,Afton Wind Farm,Afton Wind Farm Limited,50.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CRYRW-4,CRYRW-4,Crystal Rig IV Wind Farm,Erova Energy Limited,48.2,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_BROCW-1,BROCW-1,Broken Cross WF,Smartestenergy Limited,48.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_DOUGW-1,DOUGW-1,T-DOUGW-1,Erova Energy Limited,45.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_PRSTW-1,PRSTW-1,Priestgill WF,Priestgill Wind Farm,43.63,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_DALQW-1,DALQW-1,Dalquhandy  Wind Farm,Statkraft Markets Gmbh,42.846,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_WDRGW-1,WDRGW-1,Windy Rig Wind Farm,Windy Rig Wind Farm Limited,42.8,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_EWHLW-1,EWHLW-1,Ewe Hill II Windfarm,SP Renewables (UK) Limited,38.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_TWSHW-1,TWSHW-1,Twenty Shilling Wind Farm,Twentyshilling Limited,37.8,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_SANQW-1,SANQW-1,SANQUHAR,SANQUHAR CWCL,32.08,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_TDBNW-1,TDBNW-1,Toddleburn,SSE Generation Ltd,31.6,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_HAHAW-1,HAHAW-1,Hagshaw Repower 1,HAGSHAW HILL REPOWERING LTD,30.258,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_DNLWW-1,DNLWW-1,Dunlaw Extension,SP Renewables (UK) Limited,29.75,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_WHIHW-1,WHIHW-1,Whiteside Hill WF,Whiteside Hill,27.52,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_MYGPW-1,MYGPW-1,Minnygap Wind Farm,Minnygap Energy Limited,25.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CRDEW-1,CRDEW-1,Crossdykes WF-1,EDF Energy Customers Limited,24.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CRDEW-2,CRDEW-2,Crossdykes WF-2,EDF Energy Customers Limited,24.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_GNAPW-1,GNAPW-1,Glen App Windfarm,SP Renewables (UK) Limited,22.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_TRLGW-1,TRLGW-1,T_TRLGW-1,Smartestenergy Limited,18.742,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_CRYRW-3,CRYRW-3,Crystal Rig III,Eneco Energy Trade,13.8,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_PGBIW-1,PGBIW-1,Pogbie WF,EDF Energy Customers Limited,10.0,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_KTHLW-1,KTHLW-1,KEITH HILL WINDFARM,Statkraft Markets Gmbh,4.54,-0.0099306,South Scotland,Y,TLF matches South Scotland units; name checked
+T_SOFOW-11,SOFWO-11,Sofia Offshore Wind BMU 1,Sofia Offshore Wind Farm Ltd,457.0,-0.0105171,England/Wales,N,"Sofia (Dogger Bank, lands at Teesside): TLF close to South Scotland but in England"
+T_SOFOW-12,SOFWO-12,Sofia Offshore Wind BMU 2,Sofia Offshore Wind Farm Ltd,457.0,-0.0105171,England/Wales,N,"Sofia (Dogger Bank, lands at Teesside): TLF close to South Scotland but in England"
+T_SOFOW-21,SOFWO-21,Sofia Offshore Wind BMU 3,Sofia Offshore Wind Farm Ltd,457.0,-0.0105171,England/Wales,N,"Sofia (Dogger Bank, lands at Teesside): TLF close to South Scotland but in England"
+T_SOFOW-22,SOFWO-22,Sofia Offshore Wind BMU 4,Sofia Offshore Wind Farm Ltd,457.0,-0.0105171,England/Wales,N,"Sofia (Dogger Bank, lands at Teesside): TLF close to South Scotland but in England"
+T_HOWBO-1,HOWBO-1,HORNSEA_WF_2A,Breesea Limited,440.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_HOWBO-2,HOWBO-2,HORNSEA_WF_2B,Sonningmay Wind Limited,440.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_HOWBO-3,HOWBO-3,HORNSEA_WF_2C,Soundmark Wind Limited,440.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_TKNEW-1,TKNEW-1,Triton Knoll OSP East 1,Triton Knoll Offshore Wind,412.0,0.0092272,England/Wales,N,TLF matches England/Wales units; name checked
+T_TKNWW-1,TKNWW-1,Triton Knoll OSP west 1,Triton Knoll Offshore Wind,412.0,0.0092272,England/Wales,N,TLF matches England/Wales units; name checked
+T_HOWAO-1,HOWAO-1,HORNSEA_1A,Hornsea 1 Limited,400.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_HOWAO-2,HOWAO-2,HORNSEA_1B,Hornsea 1 Limited,400.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_HOWAO-3,HOWAO-3,HORNSEA_1C,Hornsea 1 Limited,400.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_GANW-22,GAOFO-2,Galloper OSP 22,Galloper Offshore WindFarm Ltd,385.82,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_EAAO-2,EAAO-2,East Anglia One Offshore 2,East Anglia One Limited,367.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_EAAO-1,EAAO-1,East Anglia One Offshore 1,East Anglia One Limited,358.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_WLNYO-3,WLNYO-3,WALNEY_3,Walney Extension Ltd,345.22,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_WLNYO-4,WLNYO-4,WALNEY_4,Walney Extension Ltd,330.0,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBBWO-2,DBBWO-2,Dogger Bank B Offshore WF 2,Doggerbank OWF Project 2,304.4,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBAWO-2,DBAWO-2,Dogger Bank A Offshore WF 2,Doggerbank OWF Project 1,304.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBAWO-3,DBAWO-3,Dogger Bank A Offshore WF 3,Doggerbank OWF Project 1,302.8,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBAWO-1,DBAWO-1,Dogger Bank A Offshore WF 1,Doggerbank OWF Project 1,302.4,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBBWO-1,DBBWO-1,Dogger Bank B Offshore WF 1,Doggerbank OWF Project 2,302.4,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBBWO-3,DBBWO-3,Dogger Bank B Offshore WF 3,Doggerbank OWF Project 2,302.3,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_RCBKO-2,RCBKO-2,RACE_BANK_Z02,Race Bank Wind Farm Ltd,290.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_THNTO-1,THNTO-1,Thanet Offshore Wind Limited 1,Thanet Offshore Wind Limited,287.699,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_RCBKO-1,RCBKO-1,RACE_BANK_Z01,Race Bank Wind Farm Ltd,284.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_BRBEO-1,BRBEO-1,BURBO_EXTENSION,Burbo Extension Limited,257.7,0.0024587,England/Wales,N,TLF matches England/Wales units; name checked
+T_THNTO-2,THNTO-2,Thanet Offshore Wind Limited 2,Thanet Offshore Wind Limited,230.159,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_PNYCW-1,PNYCW-1,PNYCW-1 Export,Pen y Cymoedd Wind Farm LTD,228.0,0.0164211,England/Wales,N,TLF matches England/Wales units; name checked
+T_GRGBW-1,GRGBW-1,Greater Gabbard Module 1,Greater Gabbard Offshore Winds,205.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_WTMSO-1,WTMSO-1,WESTERMOST_ROUGH,Westermost Rough Limited,205.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_WDNSO-2,WDNSO-2,West of Duddon Sands Offshore2,Morecambe Wind Limited,201.0,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_RMPNO-1,RMPNO-1,Rampion Offshore Wind BMU 1,Rampion Offshore Windfarm Ltd,200.1,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_RMPNO-2,RMPNO-2,Rampion Offshore Wind BMU 2,Rampion Offshore Windfarm Ltd,200.1,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_WDNSO-1,WDNSO-1,West of Duddon Sands Offshore1,Morecambe Wind Limited,197.0,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_LARYW-4,LARYO-4,London Array BMU4,London Array Limited,191.099,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_WLNYO-2,WLNYO-2,WALNEY_2,Walney Offshore Windfarms Ltd,183.6,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_WLNYW-1,WLNYW-1,WALNEY_1,Walney Offshore Windfarms Ltd,182.0,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_LARYW-1,LARYO-1,London Array BMU1,London Array Limited,171.0,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_LARYW-2,LARYO-2,London Array BMU2,London Array Limited,171.0,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_LARYW-3,LARYO-3,London Array BMU3,London Array Limited,171.0,0.0130857,England/Wales,N,TLF matches England/Wales units; name checked
+T_GRGBW-2,GRGBW-2,Greater Gabbard Module 2,Greater Gabbard Offshore Winds,167.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_GRGBW-3,GRGBW-3,Greater Gabbard Module 3,Greater Gabbard Offshore Winds,167.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_SHRSW-1,SHRSO-1,Sheringham Shoal Unit 1,Scira Offshore Energy Limited,158.4,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_SHRSW-2,SHRSO-2,Sheringham Shoal Unit 2,Scira Offshore Energy Limited,158.4,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBAWO-4,DBAWO-4,Dogger Bank A Offshore WF 4,Doggerbank OWF Project 1,152.6,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBBWO-4,DBBWO-4,Dogger Bank B Offshore WF 4,Doggerbank OWF Project 2,152.2,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_OMNDW-1,OMNDO-1,Ormonde Energy Limited 1,Ormonde Energy Ltd,150.76,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_LNCSW-1,LNCSO-1,Lincs wind farm offshore BMU1,Lincs Wind Farm Ltd,150.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_LNCSW-2,LNCSO-2,Lincs wind farm offshore BMU2,Lincs Wind Farm Ltd,150.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_GYMR-15,GYMRO-15,GyM OSPE 15,Gwynt y Mor Offshore Wind Farm,148.0,0.0024587,England/Wales,N,TLF matches England/Wales units; name checked
+T_GYMR-17,GYMRO-17,GyM OSPE 17,Gwynt y Mor Offshore Wind Farm,148.0,0.0024587,England/Wales,N,TLF matches England/Wales units; name checked
+T_GYMR-26,GYMRO-26,GyM OSPW 26,Gwynt y Mor Offshore Wind Farm,148.0,0.0024587,England/Wales,N,TLF matches England/Wales units; name checked
+T_GYMR-28,GYMRO-28,GyM OSPW 28,Gwynt y Mor Offshore Wind Farm,148.0,0.0024587,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBBWO-5,DBBWO-5,Dogger Bank B Offshore WF 5,Doggerbank OWF Project 2,138.7,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DBAWO-5,DBAWO-5,Dogger Bank A Offshore WF 5,Doggerbank OWF Project 1,138.2,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_RREW-1,RREW-1,T_RREW-1,RWE Renewables UK Robin Rigg,114.293,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_HMGTO-2,HMGTO-2,Humber Offshore Wind Farm BMU2,RWE Renewables UK Humber Wind,111.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DDGNO-1,DDGNO-1,Dudgeon Generator BMU 1,Dudgeon Offshore Wind Ltd,108.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_GNFSW-1,GNFSW-1,Gunfleet Sands 1,Gunfleet Sands Limited,108.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_HMGTO-1,HMGTO-1,Humber Offshore Wind Farm BMU1,RWE Renewables UK Humber Wind,108.0,-0.0042872,England/Wales,N,TLF matches England/Wales units; name checked
+T_DDGNO-3,DDGNO-3,Dudgeon Generator BMU 3,Dudgeon Offshore Wind Ltd,102.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_DDGNO-4,DDGNO-4,Dudgeon Generator BMU 4,Dudgeon Offshore Wind Ltd,102.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_RRWW-1,RRWW-1,T_RRWW-1,RWE Renewables UK Robin Rigg,90.838,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_BOWLW-1,BOWLW-1,Barrow Offshore Wind,Barrow Offshore Wind Limited,90.0,-0.005017,England/Wales,N,TLF matches England/Wales units; name checked
+T_DDGNO-2,DDGNO-2,Dudgeon Generator BMU 2,Dudgeon Offshore Wind Ltd,90.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_GANW-11,GAOFO-1,Galloper OSP 11,Galloper Offshore WindFarm Ltd,88.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_GANW-13,GAOFO-3,Galloper OSP 13,Galloper Offshore WindFarm Ltd,88.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_GANW-24,GAOFO-4,Galloper OSP 24,Galloper Offshore WindFarm Ltd,88.0,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
+T_GNFSW-2,GNFSW-2,Gunfleet Sands 2,Gunfleet Sands II Limited,64.48,0.0083094,England/Wales,N,TLF matches England/Wales units; name checked
